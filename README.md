@@ -1,5 +1,3 @@
 # hello-word
 Aprendendo GIT
-To editando pela segunda vez, 
-vou comittar mas não dar o pull request
-<br/>Quinta linha =)
+Agora vai não é pssoviel
